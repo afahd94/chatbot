@@ -1,0 +1,18 @@
+# Training data for a weather-related chatbot
+Input,Output
+"What's the weather like today?", "The weather today is sunny with a high of 75°F and a gentle breeze."
+"Will it rain tomorrow?", "Tomorrow's forecast predicts scattered showers in the morning and partly cloudy skies in the afternoon."
+"Can you tell me if it's going to be sunny this weekend?", "This weekend will be mostly sunny with occasional clouds passing by."
+"Do I need an umbrella?", "Yes, there's a 60% chance of rain later today. An umbrella would be a good idea."
+"What should I wear in this weather?", "Wear light clothing, it's going to be warm. Don't forget sunglasses and sunscreen."
+"Is it going to be hot or cold?", "Today's temperature will be around 80°F, so it's relatively warm compared to previous days."
+"Is there any snow expected?", "No, there's no snowfall expected for this week. The weather will remain clear."
+"What's the weather like in Sydney?", "Sydney will have clear skies with temperatures around 70°F. Expect light winds."
+"Should I expect strong winds today?", "Yes, there will be gusty winds in the afternoon, reaching speeds of 15-20 mph."
+"Is there any chance of a thunderstorm?", "No, there's no forecast for thunderstorms today. The weather will be calm."
+"Are there any weather warnings issued?", "A heat advisory has been issued due to high temperatures. Stay hydrated and cool."
+"What's the UV index today?", "The UV index is high today at 8.1. Apply sunscreen if you plan to be outdoors."
+"How's the air quality today?", "The air quality is moderate today. People with respiratory issues should take precautions."
+"Will there be any fog in the morning?", "Yes, there might be some patchy fog early in the morning, but it will clear up later."
+"Is it going to be humid today?", "Yes, the humidity levels will be around 70%, so it might feel a bit muggy."
+"What time does sunset occur?", "Sunset is at 7:30 PM today, providing a longer evening for outdoor activities."
