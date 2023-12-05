@@ -1,5 +1,5 @@
 Project Description:
-- The WeatherBot Chat Application is a conversational interface designed to provide weather information based on user queries. It utilizes ChatterBot for natural language processing and leverages the OpenWeather API to fetch real-time weather data.
+- The WeatherBot Chat Application is a conversational interface designed to provide weather information based on user queries. It utilises ChatterBot for natural language processing and leverages the OpenWeather API to fetch real-time weather data.
 
 How to Install and Run the Project:
 - Installation: Please use the Zip file to open as I couldn't upload all libraries onto GitHub. 
